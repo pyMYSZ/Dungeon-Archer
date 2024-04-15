@@ -1,0 +1,33 @@
+A game based on udemy course 'Complete Pygame Tutorial - Create a Dungeon Crawler' 
+https://www.udemy.com/course/pygame-dungeon-crawler/?kw=create+dungeon&src=sac
+https://www.youtube.com/@CodingWithRuss
+
+dungeon images from 
+https://0x72.itch.io/dungeontileset-ii
+
+shop potion images:
+https://pngtree.com/freepng/icons-set-for-isometric-game-elements-colorful-isolated-vector-illustration-of-game-element-potions-for-abstract-flat-game-concept_7255077.html
+
+player (kenny) face in hud images:
+https://www.spriters-resource.com/pc_computer/southpark/sheet/177113/
+
+coin images:
+https://downhillgame.wordpress.com/2016/02/19/12-assets-update-spinning-coin/
+
+images:
+https://www.freepik.com/
+
+background sound:
+https://crossedkiller.itch.io/dungeon-music
+
+sound effect:
+https://pixabay.com
+https://www.pond5.com/de/
+https://www.myinstants.com/de/index/pl/
+
+font: 
+https://www.fontspace.com/
+
+
+
+
