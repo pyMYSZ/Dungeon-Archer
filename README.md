@@ -1,13 +1,12 @@
 ﻿# Dungeon-Archer
 
+ A game based on udemy course 'Complete Pygame Tutorial - Create a Dungeon Crawler' 
+https://www.udemy.com/course/pygame-dungeon-crawler/?kw=create+dungeon&src=sac
+https://www.youtube.com/@CodingWithRuss
+
 ![image](https://github.com/pyMYSZ/Dungeon-Archer/assets/146995767/d5552bdf-ca00-495f-b220-9c036b19ad72)
 
 ![image](https://github.com/pyMYSZ/Dungeon-Archer/assets/146995767/e65054ec-7f2e-4ffc-ad13-925be6837bba)
-
-
-A game based on udemy course 'Complete Pygame Tutorial - Create a Dungeon Crawler' 
-https://www.udemy.com/course/pygame-dungeon-crawler/?kw=create+dungeon&src=sac
-https://www.youtube.com/@CodingWithRuss
 
 dungeon images from 
 https://0x72.itch.io/dungeontileset-ii
